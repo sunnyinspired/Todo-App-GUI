@@ -1,3 +1,4 @@
+Go to the Mall
+Wash the Car
 Clean the house
-Wash clothes
-Sleep for a 30 minutes
+Write some python codes
