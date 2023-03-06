@@ -1,4 +1,5 @@
 Go to the Mall
 Wash the Car
 Clean the house
-Write some python codes
+Write Some Python codes
+
